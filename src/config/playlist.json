@@ -1,0 +1,61 @@
+{
+  "playlistId": "Rick and Morty Soundtrack",
+  "playlist": [
+    {
+      "num": 1,
+      "title": "Tiny Rick Song | Rick and Morty | Adult Swim",
+      "id": "R0p8gk_zHSA",
+      "duration": "1:02",
+      "video": "https://www.youtube.com/embed/R0p8gk_zHSA"
+    },
+    {
+      "num": 3,
+      "title": "Moonmen | Rick and Morty | Adult Swim",
+      "id": "TgqiSBxvdws",
+      "duration": "2:18",
+      "video": "https://www.youtube.com/embed/TgqiSBxvdws"
+    },
+    {
+      "num": 4,
+      "title": "Rick & Morty - Enigma Parody Song (Ryan Elder)",
+      "id": "FuQRwwOvy9g",
+      "duration": "1:05",
+      "video": "https://www.youtube.com/embed/FuQRwwOvy9g"
+    },
+    {
+      "num": 5,
+      "title": "Rick and Morty - The Rick Dance",
+      "id": "UFFi9PWKDjg",
+      "duration": "0:41",
+      "video": "https://www.youtube.com/embed/UFFi9PWKDjg"
+    },
+    {
+      "num": 6,
+      "title": "Get Schwifty Music Video | Rick and Morty | Adult Swim",
+      "id": "I1188GO4p1E",
+      "duration": "1:01",
+      "video": "https://www.youtube.com/embed/I1188GO4p1E"
+    },
+    {
+      "num": 7,
+      "title": "Head Bent Over Music Video | Rick and Morty | Adult Swim",
+      "id": "GeAq6Mft17k",
+      "duration": "1:02",
+      "video": "https://www.youtube.com/embed/GeAq6Mft17k"
+    },
+    {
+      "num": 8,
+      "title": "Summer and Tinkles in Neverpastbedtime Land - Rick and Morty",
+      "id": "trcHDabMLHE",
+      "duration": "0:37",
+      "video": "https://www.youtube.com/embed/trcHDabMLHE"
+    },
+    {
+      "num": 9,
+      "title": "Darkest Ending Ever",
+      "id": "nHiAL0C6stE",
+      "duration": "0:37",
+      "video": "https://www.youtube.com/embed/nHiAL0C6stE"
+    }
+  ]
+}
